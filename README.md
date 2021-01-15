@@ -4,7 +4,7 @@
 <ul>
   <li><a href="https://colab.research.google.com/drive/16OkAtkvwhuY346qJLw-KNui1Ol2mJgXd?usp=sharing" target="_blank">Identificação de países que tenham jogadores com grande potencial.</a></li>
   <li><a href="https://colab.research.google.com/drive/1BOPl_-Bg43_14TMOcdNM8CfO55N0qAZa?usp=sharing" target="_blank">Identificação dos melhores jogadores presentes no jogo por posição.</a></li>
-  <li>Identificação dos jogadores com maiores potenciais por posição.</li>
+  <li><a href="https://colab.research.google.com/drive/19032Yd4PxqHK4wroR9CQSOnlxvysMqPf?usp=sharing" target="_blank">Identificação dos jogadores com maiores potenciais por posição.</a></li>
   <li>Aplicação de um modelo de Regressão Linear para tentar prever o valor de mercado dos jogadores.</li>
 </ul>
 <p>Para a realização de todas essas análises, foram utilizadas diversas biliotecas para auxiliar nas análises:</p>
