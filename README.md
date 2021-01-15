@@ -3,7 +3,7 @@
 <p>As análises realizadas foram:</p>
 <ul>
   <li><a href="https://colab.research.google.com/drive/16OkAtkvwhuY346qJLw-KNui1Ol2mJgXd?usp=sharing" target="_blank">Identificação de países que tenham jogadores com grande potencial.</a></li>
-  <li>Identificação dos melhores jogadores presentes no jogo por posição.</li>
+  <li><a href="https://colab.research.google.com/drive/1BOPl_-Bg43_14TMOcdNM8CfO55N0qAZa?usp=sharing" target="_blank">Identificação dos melhores jogadores presentes no jogo por posição.</a></li>
   <li>Identificação dos jogadores com maiores potenciais por posição.</li>
   <li>Aplicação de um modelo de Regressão Linear para tentar prever o valor de mercado dos jogadores.</li>
 </ul>
